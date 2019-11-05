@@ -12,3 +12,6 @@ My name is Panos Vagenas.
 I love creating software that solves problems and helps people.
 
 If I am not moving bytes around, then I am probably either playing music or trying to improve my tennis skills.
+
+Feel free to check my <a href="bio">bio</a> or <a href="contact">connect</a>.
+

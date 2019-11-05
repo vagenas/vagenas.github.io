@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-**Email**  
-<mailto:panagiotis.vagenas@gmail.com>  
+**Email**<br />
+<mailto:panagiotis.vagenas@gmail.com><br />
 
-**LinkedIn**  
-<https://www.linkedin.com/in/vagenas>
+**LinkedIn**<br />
+<https://www.linkedin.com/in/vagenas><br />
 
