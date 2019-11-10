@@ -3,15 +3,13 @@ layout: page
 title: Home
 ---
 
-<img class="avatar" src="assets/images/photo.jpg" />
+<img class="avatar" src="/assets/images/photo.jpg" />
 
-Hello and welcome to my website!
+Welcome to my website!
 
-My name is Panos Vagenas.
+I am Panos Vagenas, a software engineer with a passion for creating software that solves complex problems and helps people.
 
-I love creating software that solves problems and helps people.
-
-If I am not moving bytes around, then I am probably either playing music or trying to improve my tennis skills.
+My background is in Computer Science, in which I hold an MSc from ETH Zurich, and my main areas of interest are Data Management and Artificial Intelligence.
 
 Feel free to check my <a href="bio">bio</a> or <a href="contact">connect</a>.
 

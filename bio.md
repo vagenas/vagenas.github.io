@@ -52,6 +52,9 @@ A. Kokkalis, P. Vagenas, A. Zervakis, A. Simitsis, G. Koutrika, Y. Ioannidis
 ## Languages
 English (C2), German (C2), Spanish (B2), French (A2), Greek (native)
 
+## Interests
+Piano, tennis, traveling
+
 [vldb13]: https://doi.org/10.14778/2536274.2536278
 [sigmod13]: https://doi.org/10.1145/2463676.2465293
 [sigmod12]: https://doi.org/10.1145/2213836.2213929

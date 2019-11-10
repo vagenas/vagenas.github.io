@@ -29,3 +29,16 @@ ul > li > ul > li {
   margin-bottom: 18px;
 }
 
+.site-header a:hover {
+  text-decoration: none;
+  color: #778;
+}
+
+.page-content a:hover, .site-footer a:hover {
+  color: #5aaaff;
+}
+
+a, a:visited {
+  color: #2a7ae2;
+}
+
