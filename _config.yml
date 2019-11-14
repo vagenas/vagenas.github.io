@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 author: Panos Vagenas
 title: Panos Vagenas
-email: panagiotis.vagenas@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Prime software and data engineering.
 description: null
