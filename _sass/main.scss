@@ -44,6 +44,8 @@ a, a:visited {
 
 textarea {
   font-family: Arial;
+  resize: vertical;
+  min-height: 40px;
 }
 
 .form-group {
@@ -56,14 +58,16 @@ textarea {
   box-sizing: border-box;
   border: 1px solid #e8e8e8;
   font-size: 16px;
+  border-radius: 4px;
+  margin-top: 3px;
 }
 
 .control-group {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .btn-primary {
-  margin-top: 20px;
+  margin-top: 15px;
   background-color: #424242;
   border: none;
   color: #fdfdfd;
@@ -72,5 +76,9 @@ textarea {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.form-control,.btn-primary {
+  border-radius: 3px;
 }
 
