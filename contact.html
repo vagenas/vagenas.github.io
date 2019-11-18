@@ -11,25 +11,28 @@ form: true
 <form action="https://smartforms.dev/submit/5dcd9661ed25000605199b87" method="POST">
   <div class="control-group">
     <div class="form-group">
-      <input type="text" class="form-control" placeholder="Name" id="name" name="name" required data-validation-required-message="Please enter your name.">
+      <label>Name</label>
+      <input type="text" class="form-control" id="name" name="name" required data-validation-required-message="Please enter your name.">
     </div>
   </div>
   <div class="control-group">
     <div class="form-group">
-      <input type="email" class="form-control" placeholder="Email address" id="email" name="email" required data-validation-required-message="Please enter your email address.">
+      <label>Email address</label>
+      <input type="email" class="form-control" id="email" name="email" required data-validation-required-message="Please enter your email address.">
     </div>
   </div>
   <div class="control-group">
     <div class="form-group">
-      <input type="tel" class="form-control" name="phone" placeholder="Phone number" id="phone" >
+      <label>Phone</label>
+      <input type="tel" class="form-control" id="phone" name="phone">
     </div>
   </div>
   <div class="control-group">
     <div class="form-group">
-      <textarea rows="8" class="form-control" placeholder="Message" id="message" name="message" required data-validation-required-message="Please enter a message."></textarea>
+      <label>Message</label>
+      <textarea rows="8" class="form-control" id="message" name="message" required data-validation-required-message="Please enter a message."></textarea>
     </div>
   </div>
-  <div id="success"></div>
   <div class="form-group">
     <div class="g-recaptcha" data-sitekey="6LcKxsIUAAAAAMtHxfMzPJ1OVlmRpwZ2xICvLSXQ"></div>
     <button type="submit" class="btn-primary" id="sendMessageButtonxxx">Send</button>
