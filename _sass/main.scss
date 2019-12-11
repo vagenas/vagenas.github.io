@@ -21,8 +21,8 @@ ul > li > ul {
   margin-left: 18px;
 }
 
-ul > li > ul > li {
-  margin: 2px 0px;
+ul > li > ul > li:not(:first-child) {
+  margin: 4px 0px;
 }
 
 .spacious > ul > li:not(:last-child) {
@@ -81,4 +81,3 @@ textarea {
 .form-control,.btn-primary {
   border-radius: 3px;
 }
-
