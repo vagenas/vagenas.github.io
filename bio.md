@@ -7,12 +7,14 @@ permalink: /bio/
 ## Experience
 
 <div class="spacious">
+* **IBM Research**, Zurich, CH<br />
+*Software Engineer*, Cognitive Computing and Industrial Solutions<br />
+<span class="time">Jan 2020 – now</span>
 * **AdNovum**, Zurich, CH<br />
-  * *Professional Data Engineer*, Cognitive Solutions<br /><span class="time">Jan 2018 – May 2019</span><br />
-  * *Professional Software Engineer*, Application Development<br /><span class="time">Jan 2017 – Dec 2017</span><br />
-  * *Junior Software Engineer*, Application Development<br /><span class="time">Jan 2014 – Dec 2016</span>
+*Software Engineer*, Enterprise Applications and Data Analytics<br />
+<span class="time">Jan 2014 – May 2019</span>
 * **SAP**, Walldorf, DE<br />
-*Master Thesis Student*, Technology and Innovation Platform HANA<br />
+*Thesis Student*, Technology and Innovation Platform HANA<br />
 <span class="time">Oct 2012 – Apr 2013</span><br />
 </div>
 
