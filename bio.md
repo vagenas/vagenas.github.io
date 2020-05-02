@@ -8,7 +8,7 @@ permalink: /bio/
 
 <div class="spacious">
 * **IBM Research**, Zurich, CH<br />
-*Software Engineer*, Cognitive Computing and Industrial Solutions<br />
+*Software Engineer*, Cognitive Computing and Industry Solutions<br />
 <span class="time">Jan 2020 – now</span>
 * **AdNovum**, Zurich, CH<br />
 *Software Engineer*, Enterprise Applications and Data Analytics<br />
