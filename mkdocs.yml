@@ -1,0 +1,28 @@
+site_name: Panos Vagenas
+theme:
+  name: material
+  logo: images/favicon.ico
+  favicon: images/favicon.ico
+
+  palette:
+  - scheme: default
+    primary: black
+    accent: black
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/vagenas
+    - icon: fontawesome/brands/github
+      link: https://github.com/vagenas
+    # - icon: fontawesome/brands/credly
+    #   link: https://www.credly.com/users/vagenas
+
+extra_css:
+  - stylesheets/extra.css
+
+# copyright: Copyright &copy; 2022 Panagiotis Vagenas

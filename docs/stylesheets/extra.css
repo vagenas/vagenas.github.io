@@ -1,0 +1,25 @@
+/* hide prev/next links as per:
+   https://github.com/squidfunk/mkdocs-material/discussions/3489#discussioncomment-2876176 */
+.md-footer__inner:not([hidden]) {
+    display: none
+}
+
+.mine {
+    font-family: var(--md-text-font-family);
+    font-size: 0.8rem;
+    display: block;
+    margin-top: 3px;
+    border: 1px solid #ddd;
+    border-radius: 0.1rem;
+    width: 100%;
+    padding: 5px;
+}
+
+textarea.mine {
+    resize: vertical;
+    min-height: 3.5rem;
+}
+
+.control-group {
+    margin-bottom: 12px;
+}
