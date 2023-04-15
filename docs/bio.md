@@ -16,6 +16,11 @@ Here is a short bio—for more details check my [LinkedIn profile][linkedin].
 - **University of Athens**, Athens, GR<br />
   *BSc in Informatics and Telecommunications* (Sep 2006 - Aug 2011)
 
+## 🏆 Awards
+- IBM Research Outstanding Technical Achievement Award (2022)
+- ACM SIGMOD Best Demonstration Award (2012)
+- ETH Zurich Excellence Scholarship (2011)
+
 ## ✅ Certifications
 - Red Hat Certified Specialist in Containers and Kubernetes (2021)
 - AWS Certified Solutions Architect – Associate (2019)
@@ -23,12 +28,7 @@ Here is a short bio—for more details check my [LinkedIn profile][linkedin].
 
 For more details check my [Credly profile][credly].
 
-## 🏆 Awards
-- IBM Research Outstanding Technical Achievement Award (2022)
-- ACM SIGMOD Best Demonstration Award (2012)
-- ETH Zurich Excellence Scholarship (2011)
-
-## 💡 Publications
+## 📚 Publications
 Check my [Google Scholar profile][scholar].
 
 ## 🌐 Languages
