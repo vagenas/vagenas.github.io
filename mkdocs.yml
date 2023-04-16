@@ -6,7 +6,7 @@ theme:
 
   palette:
   - scheme: default
-    primary: black
+    primary: blue grey
     accent: black
 
 markdown_extensions:

@@ -1,5 +1,5 @@
 <script src="https://www.google.com/recaptcha/api.js"></script>
-<p>Want to get in touch? Connect with me on <a href="https://www.linkedin.com/in/vagenas">LinkedIn</a> or contact me via the form below:</p>
+<p>Want to get in touch? Connect on <a href="https://www.linkedin.com/in/vagenas">LinkedIn</a> or reach out via the form below:</p>
 <form action="https://formspree.io/mledvzgl" method="POST">
   <div class="control-group">
     <div>

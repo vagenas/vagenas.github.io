@@ -2,7 +2,9 @@
 
 ![Avatar](images/photo.jpg){ align=right }
 
-I am a software engineer with a decade of experience and a passion for creating
-sustainable solutions.
+I have a passion for simple, sustainable solutions.
 
-Feel free to <a href="bio">check my bio</a> and <a href="contact">get in touch</a>.
+As a software engineer at IBM Research, I work on the development of Data and AI Platforms
+such as [Deep Search](https://ds4sd.github.io).
+
+Feel free to [check my bio](./bio.md) or [get in touch](./contact.md).
