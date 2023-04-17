@@ -7,7 +7,6 @@ theme:
   palette:
   - scheme: default
     primary: blue grey
-    accent: black
 
 markdown_extensions:
   - attr_list
@@ -24,5 +23,3 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
-
-# copyright: Copyright &copy; 2022 Panagiotis Vagenas
