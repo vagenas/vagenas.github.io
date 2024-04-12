@@ -17,11 +17,13 @@ Here is a short bio—for more details check my [LinkedIn profile][linkedin].
   *BSc in Informatics and Telecommunications* (Sep 2006 - Aug 2011)
 
 ## Awards
+- IBM Technical Collaboration Achievement Program Leadership Award (2024)
 - IBM Research Outstanding Technical Achievement Award (2022)
 - ACM SIGMOD Best Demonstration Award (2012)
 - ETH Zurich Excellence Scholarship (2011)
 
 ## Certifications
+- IBM Developer Profession - Level 3 Expert (2024)
 - Red Hat Certified Specialist in Containers and Kubernetes (2021)
 - AWS Certified Solutions Architect – Associate (2019)
 - IBM Data Science Professional Certificate (2019)
