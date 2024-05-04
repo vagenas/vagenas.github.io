@@ -18,7 +18,7 @@ Here is a short bio—for more details check my [LinkedIn profile][linkedin].
 
 ## Awards
 - IBM Technical Collaboration Achievement Program Leadership Award (2024)
-- IBM Research Outstanding Technical Achievement Award (2022)
+- IBM Outstanding Technical Achievement Award (2022)
 - ACM SIGMOD Best Demonstration Award (2012)
 - ETH Zurich Excellence Scholarship (2011)
 
